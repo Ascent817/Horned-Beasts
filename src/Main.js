@@ -10,7 +10,7 @@ class Main extends React.Component {
         });
 
         return (
-            <main>
+            <main style={{marginLeft: 'calc(50% - 250px)'}}>
                 {fragment}
             </main>
         )
