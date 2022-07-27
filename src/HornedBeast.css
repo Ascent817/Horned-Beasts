@@ -1,3 +1,14 @@
 .Image {
     width: 500px;
 }
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 170px;
+}
+
+.Image-Modal {
+    margin: 20px;
+}

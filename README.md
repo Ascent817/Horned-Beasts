@@ -31,3 +31,13 @@ Start time: 2 PM
 End time: 2:12 PM
 
 Actual time to completion: 12 Minutes
+
+### Feature 4: Display a Modal
+
+Estimate of time to completion: 30 Minutes
+
+Start time: 2 PM
+
+End time: 2:20 PM
+
+Actual time to completion: 20 Minutes
