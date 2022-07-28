@@ -41,3 +41,13 @@ Start time: 2 PM
 End time: 2:20 PM
 
 Actual time to completion: 20 Minutes
+
+### Feature 5: Filter by Horns
+
+Estimate of time to completion: 30 Minutes
+
+Start time: 2:15 PM
+
+End time: 2:45 PM
+
+Actual time to completion: 30 Minutes

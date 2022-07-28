@@ -36,7 +36,7 @@ class HornedBeast extends React.Component {
         return (
             <>
                 <h2>{this.props.title}</h2>
-                <Image className='Image' title={this.props.title} alt={this.props.description} src={this.props.imageUrl} responsive rounded />
+                <Image className='Image' title={this.props.title} alt={this.props.description} src={this.props.imageUrl} rounded />
                 <p>{this.props.description}</p>
                 <span className='flex-row'>
                     <Button onClick={this.Vote}>Vote</Button>
@@ -48,7 +48,7 @@ class HornedBeast extends React.Component {
                     <Modal.Header closeButton>
                         <Modal.Title>{this.props.title}</Modal.Title>
                     </Modal.Header>
-                    <Image className='Image-Modal' title={this.props.title} alt={this.props.description} src={this.props.imageUrl} responsive rounded />
+                    <Image className='Image-Modal' title={this.props.title} alt={this.props.description} src={this.props.imageUrl} rounded />
                     <Modal.Body>{this.props.description}</Modal.Body>
                     <Modal.Footer>
                         <Button variant="secondary" onClick={this.handleClose}>
